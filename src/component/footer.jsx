@@ -1,9 +1,19 @@
 import React from 'react'
+import '../componentsOfCss/Footer.css'
 
-function footer() {
+function Footer() {
   return (
-    <div>footer</div>
+    <div>
+        <footer>
+            <div><p>
+            
+                Copyright &copy;2025 By Tilak Sagervanshi
+            
+            </p>
+            </div>
+        </footer>
+    </div>
   )
 }
 
-export default footer
+export default Footer

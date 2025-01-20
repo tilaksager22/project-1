@@ -1,9 +1,20 @@
 import React from 'react'
+import '../componentsOfCss/navbar.css'
 
-function navbar() {
+function Navbar() {
   return (
-    <div>navbar</div>
+    <>
+     <nav id="navber">
+     
+    <a class="contt" href="#">Home</a>
+    
+    <a class="contt" href="#">About</a>
+  
+    <a class="contt" href="#">contact</a>
+  </nav>
+
+    </>
   )
 }
 
-export default navbar
+export default Navbar

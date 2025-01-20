@@ -1,0 +1,16 @@
+
+.head{
+    text-align: bold;
+    font-size: 60px;
+    padding-top: 180px;
+    padding-left: 300px;
+    color: rgb(38, 38, 212);
+
+}
+.head2{
+    text-align: left;
+    font-style: bold;
+    font-size: 60px;
+    padding-left: 300px;
+    color: rgb(38, 38, 212);
+}

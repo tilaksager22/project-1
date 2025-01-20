@@ -1,0 +1,23 @@
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+#navber{
+    background-color: rgba(248, 61, 14, 0.548);
+    padding: 30px;
+    text-align: right;
+}
+.contt{
+    text-decoration: solid;
+    color: rgb(228, 232, 129);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+a:hover{
+    background-color: grey;
+}
