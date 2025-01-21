@@ -6,11 +6,11 @@ function Navbar() {
     <>
      <nav id="navber">
      
-    <a class="contt" href="#">Home</a>
+    <a class="contt" href="/">Home</a>
     
-    <a class="contt" href="#">About</a>
+    <a class="contt" href="/About">About</a>
   
-    <a class="contt" href="#">contact</a>
+    <a class="contt" href="/Contact">contact</a>
   </nav>
 
     </>
